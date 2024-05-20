@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.616c6c23.css",
-    "main.js": "/static/js/main.694b15e1.js",
-    "index.html": "/index.html",
-    "main.616c6c23.css.map": "/static/css/main.616c6c23.css.map",
-    "main.694b15e1.js.map": "/static/js/main.694b15e1.js.map"
+    "main.css": "/test-go-pages/static/css/main.dcdb6cbc.css",
+    "main.js": "/test-go-pages/static/js/main.28f83c48.js",
+    "static/media/photoback.png": "/test-go-pages/static/media/photoback.50a0ca73b23e8af20f2b.png",
+    "static/media/child.jpg": "/test-go-pages/static/media/child.85c9f3f7664ae3240938.jpg",
+    "static/media/ufu.png": "/test-go-pages/static/media/ufu.99e335f87c7cc0145162.png",
+    "static/media/logo3.png": "/test-go-pages/static/media/logo3.8bebcd38a7db26cc113d.png",
+    "static/media/start.png": "/test-go-pages/static/media/start.50543f6b42881f825afd.png",
+    "static/media/book.png": "/test-go-pages/static/media/book.9d97b14739c7ca8fc911.png",
+    "static/media/logo2.png": "/test-go-pages/static/media/logo2.6bdfd53ce7f757a6ed1d.png",
+    "index.html": "/test-go-pages/index.html",
+    "main.dcdb6cbc.css.map": "/test-go-pages/static/css/main.dcdb6cbc.css.map",
+    "main.28f83c48.js.map": "/test-go-pages/static/js/main.28f83c48.js.map"
   },
   "entrypoints": [
-    "static/css/main.616c6c23.css",
-    "static/js/main.694b15e1.js"
+    "static/css/main.dcdb6cbc.css",
+    "static/js/main.28f83c48.js"
   ]
 }
